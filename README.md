@@ -2,6 +2,8 @@
 A better bash-history reverse-i-search made for my day-to-day use.
 Have fun with it
 
+![better-search-history.png](screenshots/screen-better-search-history.png)
+
 # Requirements
 ## python
 You will need a python-version.
