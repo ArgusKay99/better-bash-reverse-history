@@ -23,8 +23,8 @@ reverse-i-search and some other history-related settings
 cd better-bash-reverse-history
 mkdir -p ~/bin
 cp better-history.sh ~/bin
-cp inject.sh ~/bin
-chmod +x ~/bin/inject.sh
+cp inject.py ~/bin
+chmod +x ~/bin/inject.py
 source ~/bin/better-history.sh
 ```
 
@@ -36,7 +36,7 @@ echo 'source ~/bin/better-history.sh' >> ~/.bashrc
 ## How to remove it
 ```bash
 rm ~/bin/better-history.sh
-rm ~/bin/inject.sh
+rm ~/bin/inject.py
 ```
 
 # Conclusion
