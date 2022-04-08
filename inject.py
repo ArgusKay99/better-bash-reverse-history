@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 
 # Source: https://rosettacode.org/wiki/Simulate_input/Keyboard
 import fcntl, sys, termios
