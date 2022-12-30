@@ -41,5 +41,9 @@ rm ~/bin/better-history.sh
 rm ~/bin/inject.py
 ```
 
+# Recommended usage
+## bashrc-settings
+in [history-bashrc.sh](history-bashrc.sh) are some good settings for your bashrc described
+
 # Conclusion
-If you like it be sure to stick around and check for any "improvements"
+If you like it just stick around and check for any "improvements"
